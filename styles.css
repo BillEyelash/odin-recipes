@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.flavor-town {
+    display: inline-block;
+    
+}
+.recip {
+    display: inline-block;
+    font-size: 36px;
+    background-color: orange;
+    border: 3px solid white;
+    text-align: center;
+    padding: 6px;
+}
+
+.main {
+    border: 4px solid black;
+    text-align: center;
+}
+
+body {
+    background-image: url(img/background.jpg);
+    background-repeat: no-repeat;
+}
+ul {
+    list-style-type: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
